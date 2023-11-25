@@ -26,6 +26,7 @@ Copy code
 
 This is a simple movie booking application built using Streamlit and MySQL. The application allows users to browse movies, view movie and theater information, and book tickets. After booking, payment information is recorded in the database.
 
+
 ## Prerequisites
 
 Before running the application, make sure you have the following installed:
@@ -57,3 +58,11 @@ After booking tickets, payment information is recorded in the Payments table.
 Booking details are displayed, including the booking ID.
 Contributing
 If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+![a4](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/555944ed-d608-4c5f-bd8b-94f8cdbbb3a2)
+
+![a1](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/907dc914-056c-4073-9000-2dba2af25a41)
+![a2](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/1623f763-6f6d-4e0d-a335-8a2a39cabe1e)
+
+![a3](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/8f2e3bd7-e751-4426-8524-ba50c63ae76d)
+
+
