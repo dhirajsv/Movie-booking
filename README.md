@@ -60,10 +60,11 @@ Contributing
 If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 ![a1](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/907dc914-056c-4073-9000-2dba2af25a41)
 ![a4](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/555944ed-d608-4c5f-bd8b-94f8cdbbb3a2)
+![a3](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/8f2e3bd7-e751-4426-8524-ba50c63ae76d)
 ![a5](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/99ab2b00-ec62-46d7-9dd5-8fb4cdf4930e)
 ![a2](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/1623f763-6f6d-4e0d-a335-8a2a39cabe1e)
 ![a5](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/99ab2b00-ec62-46d7-9dd5-8fb4cdf4930e)
-![a3](https://github.com/Samahitha0/Movie_Ticket_Booking_System/assets/100484362/8f2e3bd7-e751-4426-8524-ba50c63ae76d)
+
 
 
 
