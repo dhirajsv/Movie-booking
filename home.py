@@ -12,7 +12,7 @@ import streamlit as st
 import pandas as pd
 
 # Database connection
-conn = sql.connect(host='localhost', user='root', password='Sama123#$#sama', database='moviebookingdb')
+conn = sql.connect(host='localhost', user='root', password='password', database='moviebookingdb')
 cursor = conn.cursor()
 
 # Add some CSS styles
